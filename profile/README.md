@@ -1,14 +1,14 @@
-#  <img src="https://user-images.githubusercontent.com/61543012/194726852-f0030ee1-51d3-4d17-8105-b34364288223.png" height="35" width="35" align-items="center" justify-content="center" /> 3RUPT
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+#  <img src="https://user-images.githubusercontent.com/61543012/194784863-c6ceb688-a45c-47f8-84a2-322618e8901a.png" height="35" width="35" align-items="center" justify-content="center" /> Knott Bank
+Not a bank, but operates as a central location for storing wealth. Leave in at your own risk and review the security standards often. A conveneice for those that operate heavily in the world of decentralized finance. Transactions are done with an extra layer of anonymity for data privacy conerns.
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## All the features of a CEFI in DEFI
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+🏦 Brick and motar locations and ATM's available for the private sector.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+💵 Pick what currency to store your money in based on your yielding preferences.
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+💱 Exchange currency easily at any location in the world for travelers.
 
-🚩 Be the FIRST to get the latest and the greatest.
+💳 Comes with a physical card for seemless spending and transfering between centralized financial institutions.
 
-#### An ECE Dapp
+#### [An ECE Dapp](https://github.com/eliascharlese)
