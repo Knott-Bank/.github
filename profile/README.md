@@ -11,4 +11,4 @@ Not a bank, but operates as a central location for storing wealth. Leave in at y
 
 💳 Comes with a physical card for seemless spending and transfering between centralized financial institutions.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
